@@ -6,5 +6,5 @@ javac -d class -Xlint:unchecked org/openstreetmap/gui/jmapviewer/*.java
 
 if not exist lib md lib
 cd class
-jar cvf ../lib/jmap.jar .
+jar cvfm ../lib/jmap.jar ../manifest.mf .
 cd ..

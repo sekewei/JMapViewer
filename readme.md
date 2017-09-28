@@ -1,6 +1,7 @@
-# How to build 'lib/jmap.jar'
+# How to build and run 'lib/jmap.jar'
 ```
   > build.bat
+  > run.bat
 ```
 
 # JMapViewer with offline support
