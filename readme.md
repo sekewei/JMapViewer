@@ -3,6 +3,7 @@
   > build.bat
   > run.bat
 ```
+[API Documentation] (https://sekewei.github.io/JMapViewer/)
 
 # JMapViewer with offline support
 This is a fork of JMapViewer of OpenStreetMap with support added for offline maps.
